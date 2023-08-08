@@ -2,16 +2,13 @@
 
 Este projeto consiste no desenvolvimento de páginas de login, divido em várias ramificações, onde cada um dos integrantes do grupo ficou responsável por programar uma das páginas
 
-## Requisitos
+## Sobre o projeto
 
-Certifique-se de ter os seguintes requisitos atendidos antes de começar a trabalhar nos exercícios:
+Projeto é o desenvolvimento de uma farmácia chamada Drogazin:
 
-- PHP instalado
-- Composer instalado
-- Laravel Framework instalado
-- 7-Zip instalado
-- Git instalado
-- Editor de código de sua preferência
+- Na farmácia vai ter as páginas de login de clientes, fornecedores, transportadoras e produtos
+
+- O obejetivo dessas páginas será para ter mais segurança para a loja e para os seus clientes
 
 ## Como utilizar este repositório
 
@@ -43,8 +40,8 @@ code .
 Este projeto está licenciado sob a [MIT License](LICENSE), o que significa que você pode utilizá-lo livremente para fins educacionais, comerciais ou pessoais.
 
 ## Contato
-Em caso de dúvidas, sugestões ou problemas, sinta-se à vontade para entrar em contato através do email: seu_email@example.com.
+Em caso de dúvidas, sugestões ou problemas, sinta-se à vontade para entrar em contato através do email: joaofootz10@gmail.com
 
-**Aviso**: Certifique-se de substituir "seu_usuario" no link de clonagem e "seu_email@example.com" na seção de contato pelos valores correspondentes do seu próprio usuário do GitHub e endereço de e-mail.
+**Aviso**: Certifique-se de substituir "casagrande7" no link de clonagem e "joaofootz10@gmail.com" na seção de contato pelos valores correspondentes do seu próprio usuário do GitHub e endereço de e-mail.
 
 Este é apenas um modelo básico de README.md, você pode adaptar e melhorar conforme suas necessidades específicas de projeto. Certifique-se de incluir informações importantes sobre como configurar, executar e testar os exercícios, bem como qualquer outra documentação relevante para tornar o repositório mais amigável e útil para outros desenvolvedores.
