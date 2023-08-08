@@ -1,5 +1,7 @@
 # Drogazin API com PHP e Laravel
-[Link](C:\Users\Aluno\Desktop\drogazin-api\CadastroREADME.md)
+=======
+![Logo](https://github.com/casagrande7/Drogazin-api/assets/140071695/224d699b-c9d5-42cc-9312-f0aaa5cca678)
+
 1. Página Inicial:
 A nossa página inicial é o ponto de partida perfeito para explorar todos os recursos que a Drogazin tem a oferecer. Fique por dentro das últimas promoções, lançamentos de produtos e atualizações importantes.
 
@@ -14,6 +16,7 @@ Fique informado com o nosso blog informativo, repleto de artigos relevantes sobr
 
 5. Atendimento ao Cliente:
 Estamos aqui para ajudar. Nossa página de atendimento ao cliente oferece diversas opções de contato para tirar dúvidas, fazer perguntas sobre produtos e pedidos, ou obter orientações sobre como utilizar os medicamentos corretamente.
+[Link](C:\Users\Aluno\Desktop\drogazin-api\CadastroREADME.md)
 
 6. Promoções Especiais:
 Mantenha-se atualizado sobre as nossas promoções sazonais e descontos exclusivos. Na página de Promoções Especiais, você encontrará ofertas imperdíveis que contribuirão para economizar em suas compras.
