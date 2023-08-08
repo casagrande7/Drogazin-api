@@ -1,5 +1,5 @@
 # Drogazin API com PHP e Laravel
-
+[Link](C:\Users\Aluno\Desktop\drogazin-api\CadastroREADME.md)
 1. Página Inicial:
 A nossa página inicial é o ponto de partida perfeito para explorar todos os recursos que a Drogazin tem a oferecer. Fique por dentro das últimas promoções, lançamentos de produtos e atualizações importantes.
 
