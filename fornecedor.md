@@ -1,7 +1,5 @@
 # Drogazin- Fornecedor:
 
-![Fornecedor](https://github.com/casagrande7/Drogazin-api/assets/140071695/2a6cd0b3-d312-4004-a0b2-6406567e0a15)
-
 # Nessa página tem os campos:
 
 * Nome
@@ -16,6 +14,8 @@
 * Código
 * Cidade
 * WebSite
+
+![Fornecedor](https://github.com/casagrande7/Drogazin-api/assets/140071695/2a6cd0b3-d312-4004-a0b2-6406567e0a15)
 
 Na Farmácia Drogazin, acreditamos na importância de estabelecer parcerias sólidas e mutuamente benéficas. Se você é um fornecedor de produtos de saúde, bem-estar, medicamentos ou cuidados pessoais, estamos ansiosos para explorar oportunidades de colaboração com você.
 

@@ -1,6 +1,5 @@
 
 # Drogazin- Produto:
-![Produtos](https://github.com/casagrande7/Drogazin-api/assets/140071695/d4103c53-3ed2-4435-a3d4-50a37e6d2a35)
 
 Na nossa Farmácia Drogazin, estamos empenhados em fornecer uma ampla variedade de produtos de saúde, bem-estar e cuidados pessoais para atender às suas necessidades. Nossa página de produtos é um verdadeiro tesouro de opções para ajudar você a cuidar de si mesmo e de sua família.
 
@@ -16,6 +15,8 @@ Na nossa Farmácia Drogazin, estamos empenhados em fornecer uma ampla variedade 
 * Imagem do Produto
 * Descrição do Produto
 * Referência 
+
+![Produtos](https://github.com/casagrande7/Drogazin-api/assets/140071695/d4103c53-3ed2-4435-a3d4-50a37e6d2a35)
 
 1. Medicamentos de Qualidade e Confiáveis:
 Nossa farmácia oferece uma ampla gama de medicamentos prescritos e de venda livre, todos de marcas reconhecidas e de qualidade comprovada. Sabemos que sua saúde é primordial, e é por isso que garantimos a procedência e eficácia de todos os medicamentos disponíveis em nossa página.
