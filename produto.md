@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Drogazin- Produto:
 ![Produtos](https://github.com/casagrande7/Drogazin-api/assets/140071695/d4103c53-3ed2-4435-a3d4-50a37e6d2a35)
 
@@ -41,10 +41,3 @@ Estamos ansiosos para atendê-lo e fornecer os melhores produtos e serviços pos
 
 Atenciosamente,
 A Equipe da Farmácia Drogazin
-
-
-
-
-=======
-![Produtos](https://github.com/casagrande7/Drogazin-api/assets/140071695/985c8648-2d16-47f4-9f75-790b8423698a)
->>>>>>> a23b6234dabad9c18f283d304de929359981e8d0
