@@ -38,9 +38,6 @@ copy .env.example .env
 code .
 ---
 
-##Insomnia
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Drogazin-api&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fcasagrande7%2Fexercicios-apii%2Fmain%2FInsomnia.json)
-
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE), o que significa que você pode utilizá-lo livremente para fins educacionais, comerciais ou pessoais.
