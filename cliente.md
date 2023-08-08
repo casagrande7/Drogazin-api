@@ -2,6 +2,16 @@
 
 Página de cliente:
 
+# Nessa página contem os campos: 
+* Usuário 
+* Senha 
+* CPF 
+* CEP 
+* E-mail 
+* Confirmar senha 
+* Telefone 
+* Endereço
+
 1. Minha Conta Personalizada:
 A página de Cliente é o portal para a sua conta personalizada na Drogazin. Aqui, você pode visualizar suas informações de perfil, histórico de compras, prescrições e outras configurações para garantir que sua experiência de compra seja perfeitamente adaptada às suas preferências.
 
