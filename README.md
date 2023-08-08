@@ -1,7 +1,7 @@
 # Drogazin API com PHP e Laravel
 =======
 ![Logo](https://github.com/casagrande7/Drogazin-api/assets/140071695/224d699b-c9d5-42cc-9312-f0aaa5cca678)
-* Página de [Cadastro de Clientes](Cliente.md)
+* Página de [Cadastro de Clientes](cliente.md)
 
 1. Página Inicial:
 A nossa página inicial é o ponto de partida perfeito para explorar todos os recursos que a Drogazin tem a oferecer. Fique por dentro das últimas promoções, lançamentos de produtos e atualizações importantes.
