@@ -30,9 +30,107 @@ Na Drogazin, estamos empenhados em fornecer um ambiente online seguro, acessíve
 
 Projeto é o desenvolvimento de uma farmácia chamada Drogazin:
 
-- Na farmácia vai ter as páginas de login de clientes, fornecedores, transportadoras e produtos
+- Descubra a Nossa Parceria com Fornecedores na Página de Fornecedores da Drogazin: Trabalhando Juntos pela Saúde e Bem-Estar
 
-- O obejetivo dessas páginas será para ter mais segurança para a loja e para os seus clientes
+Página de Fornecedores da Drogazin:
+
+1. A Parceria Estratégica:
+Na Drogazin, acreditamos que a base de uma farmácia confiável é construída sobre relações sólidas com fornecedores comprometidos com a excelência. Nossa página de Fornecedores destaca a importância das parcerias estratégicas na seleção de produtos de alta qualidade e na garantia de que nossos clientes tenham acesso a medicamentos e cuidados de saúde confiáveis.
+
+2. Processos de Seleção Rigorosos:
+Conheça nosso processo de seleção de fornecedores, que é rigoroso e focado em qualidade. Trabalhamos em estreita colaboração com parceiros que compartilham nossa visão de oferecer produtos autênticos, seguros e eficazes aos nossos clientes.
+
+3. Compromisso com a Qualidade:
+A página de Fornecedores enfatiza nosso compromisso inabalável com a qualidade. Descubra como colaboramos com fornecedores que atendem aos mais altos padrões da indústria farmacêutica e cumprem regulamentações rigorosas para garantir a integridade de cada produto que chega até você.
+
+4. Inovação e Desenvolvimento de Produtos:
+Saiba mais sobre como trabalhamos em parceria com fornecedores que estão na vanguarda da inovação e do desenvolvimento de produtos. Essa colaboração resulta em uma gama diversificada de produtos que atendem às necessidades em constante evolução dos nossos clientes.
+
+5. Sustentabilidade e Responsabilidade Social:
+A Drogazin tem o compromisso de ser uma força positiva na sociedade. Nossa página de Fornecedores destaca como selecionamos parceiros que compartilham nosso compromisso com práticas sustentáveis e responsabilidade social, contribuindo para um impacto positivo nas comunidades em que operamos.
+
+6. Entre em Contato:
+Se você é um fornecedor interessado em fazer parte da nossa rede de parcerias, nossa página de Fornecedores oferece informações sobre como entrar em contato conosco para iniciar uma conversa promissora.
+
+Na Drogazin, reconhecemos que a qualidade e a confiabilidade dos produtos que oferecemos estão diretamente ligadas às parcerias sólidas que estabelecemos com fornecedores comprometidos com os mesmos valores que nós. Explore nossa página de Fornecedores para entender como estamos dedicados a trabalhar em conjunto para promover a saúde e o bem-estar de nossos clientes.
+
+ Página da transportadora da Drogazin:
+
+- 1. Compromisso com a Entrega Segura:
+Na Drogazin, a segurança dos produtos e a integridade das entregas são prioridades máximas. Nossa página da Transportadora destaca como trabalhamos com parceiros logísticos de confiança, que compartilham nosso compromisso de entregar os produtos farmacêuticos e de cuidados pessoais de maneira segura e eficiente.
+
+2. Rastreamento em Tempo Real:
+Entendemos que a transparência é fundamental quando se trata de suas entregas. Saiba como nossa transportadora oferece a capacidade de rastrear suas encomendas em tempo real, permitindo que você acompanhe o status da entrega e esteja sempre informado sobre o progresso do seu pedido.
+
+3. Agilidade e Prazos de Entrega:
+Explore como a nossa transportadora trabalha com rapidez e eficiência para garantir que seus produtos cheguem até você dentro dos prazos prometidos. Nossa dedicação a prazos de entrega confiáveis é uma extensão do nosso compromisso com o seu bem-estar.
+
+4. Embalagem Segura:
+A página da Transportadora destaca como nossos parceiros logísticos cuidam da embalagem dos produtos de maneira segura e adequada. Entendemos a importância de garantir que os itens cheguem até você em perfeitas condições, prontos para uso.
+
+5. Atendimento ao Cliente e Suporte:
+Saiba como entrar em contato com a nossa transportadora em caso de dúvidas, problemas ou necessidade de assistência adicional. A página de Atendimento ao Cliente e Suporte oferece informações sobre como obter ajuda relacionada às entregas.
+
+6. Sustentabilidade:
+Entendemos a importância de sermos ambientalmente responsáveis. Descubra como nossa transportadora adota práticas sustentáveis, buscando reduzir o impacto ambiental das operações logísticas.
+
+7. Parceria Contínua:
+A Drogazin valoriza cada cliente e entende que a confiança em nossa transportadora é essencial. Nossa página destaca como estamos comprometidos em cultivar uma parceria contínua e positiva para garantir que suas experiências de compra sejam excepcionais.
+
+Na Drogazin, acreditamos que a qualidade dos produtos se estende até a forma como eles são entregues a você. Explore a página da Transportadora para obter insights sobre como estamos empenhados em proporcionar a você uma experiência de entrega tranquila, segura e conveniente, reforçando nosso compromisso de entregar saúde e bem-estar diretamente à sua porta.
+
+Página de produtos da Drogazin: 
+
+- 1. Explorando a Diversidade:
+Navegue por nossa vasta seleção de produtos, que abrange desde medicamentos de venda livre até produtos de beleza, cuidados com a pele, suplementos nutricionais e muito mais. A diversidade de nossa oferta garante que você tenha acesso a uma ampla gama de soluções para suas necessidades específicas.
+
+2. Informações Detalhadas:
+Em nossa página de Produtos, você encontrará informações detalhadas sobre cada item, incluindo descrições, dosagens recomendadas, benefícios e possíveis efeitos colaterais. Entendemos a importância de tomar decisões informadas, e estamos comprometidos em fornecer todas as informações necessárias para que você faça escolhas conscientes.
+
+3. Categorias Especializadas:
+Descubra como nossos produtos são organizados em categorias especializadas para facilitar sua busca. De saúde feminina a cuidados infantis e gerenciamento de peso, nossa página permite que você encontre rapidamente produtos relevantes para suas necessidades específicas.
+
+4. Guias e Tutoriais:
+Nossa página de Produtos também oferece guias e tutoriais informativos para ajudá-lo a entender melhor como usar determinados produtos e obter o máximo benefício deles. Esses recursos são projetados para garantir que você tenha uma experiência positiva com nossos produtos.
+
+5. Avaliações e Comentários:
+Explore avaliações e comentários de clientes reais que compartilham suas experiências com os produtos. Isso oferece insights valiosos que podem ajudá-lo a tomar decisões informadas e escolher os produtos mais adequados às suas necessidades.
+
+6. Promoções Especiais:
+Fique atento às nossas promoções especiais e descontos exclusivos. Na página de Produtos, você encontrará ofertas que podem contribuir para economias significativas em suas compras.
+
+7. Adicionando ao Carrinho:
+Quando você encontrar um produto que atenda às suas necessidades, adicione-o facilmente ao seu carrinho de compras e prossiga para o pagamento de forma conveniente e segura.
+
+Na Drogazin, acreditamos que a saúde é pessoal, e nossa página de Produtos reflete esse compromisso. Explore nosso catálogo diversificado, informe-se, faça escolhas conscientes e desfrute de uma experiência de compra online que prioriza a sua saúde e bem-estar. Estamos aqui para apoiá-lo em sua jornada de cuidado pessoal, sempre com produtos de qualidade e informações precisas à sua disposição.
+
+Página de cliente:
+
+1. Minha Conta Personalizada:
+A página de Cliente é o portal para a sua conta personalizada na Drogazin. Aqui, você pode visualizar suas informações de perfil, histórico de compras, prescrições e outras configurações para garantir que sua experiência de compra seja perfeitamente adaptada às suas preferências.
+
+2. Acompanhamento de Pedidos:
+Esteja sempre por dentro do status das suas encomendas. Nossa página de Cliente oferece recursos de rastreamento de pedidos em tempo real, permitindo que você saiba exatamente onde seus produtos estão e quando você pode esperar recebê-los.
+
+3. Lista de Desejos:
+Mantenha uma lista de produtos que você deseja comprar no futuro. A Lista de Desejos na página de Cliente permite que você organize os itens que chamaram a sua atenção para compras futuras.
+
+4. Histórico de Compras:
+Acompanhe o histórico detalhado das suas compras anteriores. Isso pode ser útil para referência, reordenação de produtos favoritos e para manter o controle dos produtos que você já experimentou.
+
+5. Prescrições e Consultas:
+Gerencie suas prescrições médicas diretamente na nossa página de Cliente. Faça upload de receitas, consulte seu histórico de prescrições e solicite produtos de forma fácil e segura.
+
+6. Suporte ao Cliente:
+Se você tiver dúvidas, problemas ou precisar de assistência, a página de Cliente é o ponto de acesso para nosso suporte ao cliente. Aqui, você encontrará informações sobre como entrar em contato conosco para obter ajuda.
+
+7. Ofertas Personalizadas:
+A Drogazin valoriza sua lealdade. Como parte da página de Cliente, você poderá receber ofertas exclusivas e descontos personalizados, garantindo que você aproveite ao máximo suas compras.
+
+8. Atualizações e Novidades:
+Fique atualizado sobre as últimas notícias, lançamentos de produtos e atualizações da Drogazin. Nossa página de Cliente é o canal para receber informações relevantes diretamente em sua caixa de entrada.
+
+Na Drogazin, acreditamos que cada cliente merece uma experiência única e especial. Nossa página de Cliente é um reflexo desse compromisso, oferecendo a você uma plataforma conveniente para gerenciar suas compras, acessar informações importantes e receber suporte personalizado. Explore sua página de Cliente e faça da Drogazin o seu destino confiável para saúde e bem-estar personalizados.
 
 ## Como utilizar este repositório
 
