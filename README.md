@@ -16,7 +16,7 @@ Fique informado com o nosso blog informativo, repleto de artigos relevantes sobr
 
 5. Atendimento ao Cliente:
 Estamos aqui para ajudar. Nossa página de atendimento ao cliente oferece diversas opções de contato para tirar dúvidas, fazer perguntas sobre produtos e pedidos, ou obter orientações sobre como utilizar os medicamentos corretamente.
-[Link](\Users\Aluno\Desktop\drogazin-api\CadastroREADME.md)
+[Link](C:\Users\Aluno\Desktop\drogazin-api\CadastroREADME.md)
 
 6. Promoções Especiais:
 Mantenha-se atualizado sobre as nossas promoções sazonais e descontos exclusivos. Na página de Promoções Especiais, você encontrará ofertas imperdíveis que contribuirão para economizar em suas compras.
