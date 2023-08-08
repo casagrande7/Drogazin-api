@@ -2,6 +2,15 @@
 ![thumbnail_Página de Login](https://github.com/casagrande7/Drogazin-api/assets/140071695/5e71b759-2dcf-4907-b513-7f7af9155ddd)
 
 Página de cliente:
+#Nessa página contem os campos:
+*Usuário
+*Senha
+*CPF
+*CEP
+*E-mail
+*Confirmar senha
+*Telefone 
+*Endereço
 
 1. Minha Conta Personalizada:
 A página de Cliente é o portal para a sua conta personalizada na Drogazin. Aqui, você pode visualizar suas informações de perfil, histórico de compras, prescrições e outras configurações para garantir que sua experiência de compra seja perfeitamente adaptada às suas preferências.
