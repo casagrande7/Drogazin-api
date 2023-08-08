@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Drogazin- Produto:
 ![Produtos](https://github.com/casagrande7/Drogazin-api/assets/140071695/d4103c53-3ed2-4435-a3d4-50a37e6d2a35)
 
