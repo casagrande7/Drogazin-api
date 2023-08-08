@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Drogazin- Produto:
 
 Na nossa Farmácia Drogazin, estamos empenhados em fornecer uma ampla variedade de produtos de saúde, bem-estar e cuidados pessoais para atender às suas necessidades. Nossa página de produtos é um verdadeiro tesouro de opções para ajudar você a cuidar de si mesmo e de sua família.
@@ -43,3 +44,6 @@ A Equipe da Farmácia Drogazin
 
 
 
+=======
+![Produtos](https://github.com/casagrande7/Drogazin-api/assets/140071695/985c8648-2d16-47f4-9f75-790b8423698a)
+>>>>>>> a23b6234dabad9c18f283d304de929359981e8d0
