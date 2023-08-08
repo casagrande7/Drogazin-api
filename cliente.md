@@ -1,5 +1,5 @@
 # Drogazin- Cliente:
-![thumbnail_Página de Login](https://github.com/casagrande7/Drogazin-api/assets/140071695/5e71b759-2dcf-4907-b513-7f7af9155ddd)
+![Cliente](https://github.com/casagrande7/Drogazin-api/assets/140071695/999e5ed2-cc60-4ca2-a2f5-564259309885)
 
 # Nessa página contem os campos: 
 * Usuário 
