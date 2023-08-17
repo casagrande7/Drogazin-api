@@ -153,17 +153,17 @@ Na Drogazin, acreditamos que cada cliente merece uma experiência única e espec
 cd Drogazin-api
 ```
 3. Inicializando o Repositorio
----
+
 composer update
 ---
 
 4. Copiando o env. do exemplo
----
+
 copy .env.example .env
 ---
 
 5. Acessar o Visual Studio Code
----
+
 code .
 ---
 
