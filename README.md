@@ -167,7 +167,7 @@ code .
 ```
 
 ##Insomnia
-[![Run in Insomnia](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Drogazin-api&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fcasagrande7%2FDrogazin-api%2Fmain%2Finsomnia.json%3Ftoken%3DGHSAT0AAAAAACGBYLOW24GUO5OIT5EVI4C6ZGSEV7Q)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Drogazin&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fcasagrande7%2FDrogazin-api%2Fmain%2Finsomnia.json%3Ftoken%3DGHSAT0AAAAAACGTTLFCWDEQJ2BIX6LTYQYMZHFALRQ)
 
 ## Licença
 
