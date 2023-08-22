@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::post('store', [FornecedoresController::class, 'store']);
+
+Route::post('ghj', [FornecedoresController::class, 'ghj']);
