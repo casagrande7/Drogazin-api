@@ -25,6 +25,7 @@ return new class extends Migration
             $table->string('Código', 12)->unique()->nullable(false);
             $table->string('Cidade', 30)->nullable(false);
             $table->string('WebSite', 50)->unique()->nullable(false);
+            $table->timestamps();
             
         });
     }
