@@ -17,3 +17,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::post('store', [FornecedoresController::class, 'store']);
 
+Route::get('/find/{id}', [FornecedoresController::class, 'pesquisarPorId']);   
