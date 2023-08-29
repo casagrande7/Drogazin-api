@@ -10,7 +10,7 @@
 * Telefone 
 * Endereço
 
-![Cliente](https://github.com/casagrande7/Drogazin-api/assets/140071695/999e5ed2-cc60-4ca2-a2f5-564259309885)
+![Cliente](https://github.com/casagrande7/Drogazin-api/assets/140071695/e51e7390-0648-4b01-872b-288bed5736d5)
 
 Na Farmácia Drogazin, a sua satisfação e bem-estar são nossa prioridade número um. Estamos entusiasmados em apresentar a você a sua própria Página de Cliente, um espaço personalizado projetado para aprimorar sua experiência de compra e cuidados de saúde.
 

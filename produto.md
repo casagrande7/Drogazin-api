@@ -16,7 +16,7 @@ Na nossa Farmácia Drogazin, estamos empenhados em fornecer uma ampla variedade 
 * Descrição do Produto
 * Referência 
 
-![Produtos](https://github.com/casagrande7/Drogazin-api/assets/140071695/d4103c53-3ed2-4435-a3d4-50a37e6d2a35)
+![Produtos](https://github.com/casagrande7/Drogazin-api/assets/140071695/09790025-9c48-4331-90f3-6c44a23f3e1d)
 
 1. Medicamentos de Qualidade e Confiáveis:
 Nossa farmácia oferece uma ampla gama de medicamentos prescritos e de venda livre, todos de marcas reconhecidas e de qualidade comprovada. Sabemos que sua saúde é primordial, e é por isso que garantimos a procedência e eficácia de todos os medicamentos disponíveis em nossa página.
