@@ -18,7 +18,8 @@
 * Senha
 * Confirmar Senha 
 
-![Trasnportadora]
+![Trasnportadora](https://github.com/casagrande7/Drogazin-api/assets/140071695/4de809f0-7d91-46e4-af23-b15062bf0e57)
+
 
 Na Farmácia Drogazin, a sua comodidade e satisfação estão no centro de tudo o que fazemos. É com grande prazer que apresentamos a nossa Página de Transportadora, um espaço dedicado a fornecer informações abrangentes sobre nossas opções de entrega, rastreamento de pedidos e garantir que os seus produtos cheguem até você de maneira segura e eficiente.
 
