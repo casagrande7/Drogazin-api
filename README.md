@@ -2,7 +2,7 @@
 =======
 <div align="center">
 
-![Logo](https://github.com/casagrande7/Drogazin-api/assets/140071695/224d699b-c9d5-42cc-9312-f0aaa5cca678)
+![Logo](https://github.com/casagrande7/Drogazin-api/assets/140071695/731734bd-8bee-4c48-b02f-d8a0b94b67bb)
 </div>
 
 * Página de [Cadastro de Clientes](cliente.md)
